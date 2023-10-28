@@ -25,3 +25,9 @@ function mainSolution(arr) {
     return answer;
 }
 
+function mainSolution2(arr) {
+    let answer, min = Math.min(...arr);
+    answer = min;
+    return answer;
+}
+console.log(mainSolution2(arr));
