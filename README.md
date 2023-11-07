@@ -6,7 +6,9 @@
 `Webstrom`
 
 ### 💻 공부는 Notion 개인 페이지를 통해 정리하였습니다.
-<a href="https://www.notion.so/moondongmin/520e0dccc8394c7bb6776825e181df2c"><img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://www.notion.so/moondongmin/520e0dccc8394c7bb6776825e181df2c">
+<img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"
+height="40px"/></a>
 <br>
 
 ## 코딩테스트
