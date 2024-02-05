@@ -18,6 +18,8 @@ height="40px"/></a>
 
 [문자열 탐색](https://www.notion.so/moondongmin/3-d8ab9a19df7d4523a5c2cbbe48479bc9)
 
+[완전탐색](https://www.notion.so/moondongmin/520e0dccc8394c7bb6776825e181df2c)
+
 ## 모르는 함수 정리
 
 [`〜 틸트 연산자`](https://www.notion.so/5f4c17d770144d979f76e81541b6b63b?pvs=21)
