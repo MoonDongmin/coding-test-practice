@@ -29,3 +29,5 @@ height="40px"/></a>
 [`forEach, map, filter, reduce`](https://www.notion.so/moondongmin/forEach-map-filter-reduce-3480fb70790e4873a005eaeac0053a37)
 
 [`indexOf()`](https://www.notion.so/moondongmin/indexOf-6a8e95ce30024c4ea8a28b39efff776c)
+
+[`Array.from`](https://www.notion.so/moondongmin/Array-from-968c66e3a48d41cc8259cd7353907d1f)
