@@ -27,3 +27,5 @@ height="40px"/></a>
 [`🗺️ map`](https://www.notion.so/map-faf43cf000594dc48c86ff0b19b08682?pvs=21)
 
 [`forEach, map, filter, reduce`](https://www.notion.so/moondongmin/forEach-map-filter-reduce-3480fb70790e4873a005eaeac0053a37)
+
+[`indexOf()`](https://www.notion.so/moondongmin/indexOf-6a8e95ce30024c4ea8a28b39efff776c)
