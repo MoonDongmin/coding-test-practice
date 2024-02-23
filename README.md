@@ -20,6 +20,8 @@ height="40px"/></a>
 
 [완전탐색](https://www.notion.so/moondongmin/520e0dccc8394c7bb6776825e181df2c)
 
+[효율성](https://www.notion.so/moondongmin/5-db12375f1b874c90a36d1aca36cd4337)
+
 ## 모르는 함수 정리
 
 [`〜 틸트 연산자`](https://www.notion.so/5f4c17d770144d979f76e81541b6b63b?pvs=21)
