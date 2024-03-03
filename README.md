@@ -12,15 +12,17 @@ height="40px"/></a>
 <br>
 
 ## 코딩테스트
-[기본 문제 풀이](https://www.notion.so/moondongmin/ddb2551aaffc4f848edf48a46194378c)
+[섹션1. 기본 문제 풀이](https://www.notion.so/moondongmin/ddb2551aaffc4f848edf48a46194378c)
 
-[1, 2차원 배열 탐색](https://www.notion.so/moondongmin/1-2-360f4d2cb96741478536f7e74d628259)
+[섹션2. 1, 2차원 배열 탐색](https://www.notion.so/moondongmin/1-2-360f4d2cb96741478536f7e74d628259)
 
-[문자열 탐색](https://www.notion.so/moondongmin/3-d8ab9a19df7d4523a5c2cbbe48479bc9)
+[섹션3. 문자열 탐색](https://www.notion.so/moondongmin/3-d8ab9a19df7d4523a5c2cbbe48479bc9)
 
-[완전탐색](https://www.notion.so/moondongmin/520e0dccc8394c7bb6776825e181df2c)
+[섹션4. 완전탐색](https://www.notion.so/moondongmin/520e0dccc8394c7bb6776825e181df2c)
 
-[효율성](https://www.notion.so/moondongmin/5-db12375f1b874c90a36d1aca36cd4337)
+[섹션5. 효율성](https://www.notion.so/moondongmin/5-db12375f1b874c90a36d1aca36cd4337)
+
+[섹션6. 자료구조](https://www.notion.so/moondongmin/6-2f4c82b718b74b948d6969b3a0a9971a)
 
 ## 모르는 함수 정리
 
