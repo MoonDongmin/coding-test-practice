@@ -24,6 +24,8 @@ height="40px"/></a>
 
 [섹션6. 자료구조](https://www.notion.so/moondongmin/6-2f4c82b718b74b948d6969b3a0a9971a)
 
+[섹션7. 정렬과 그리디, 결정알고리즘](https://www.notion.so/7-4172a8e17a5b4eefadb9330c7e8e7c11?pvs=4)
+
 ## 모르는 함수 정리
 
 [`〜 틸트 연산자`](https://www.notion.so/5f4c17d770144d979f76e81541b6b63b?pvs=21)
